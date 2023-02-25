@@ -1,0 +1,10 @@
+.header-container{
+    background-color: #404040;
+    padding: 1rem;
+}
+.header-logo{
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
